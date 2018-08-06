@@ -1,0 +1,25 @@
+# Site settings
+title: BarbellStrengthIndia
+header-img: img/home-bg.jpg
+email: barbellstrengthindia@gmail.com
+copyright_name: Meanwhile no copyright
+description: "This is Barbell Strength India official website. I am passionately curious about Body complete fitness."
+baseurl: ""
+url: "http://barbellstrength.in/"
+twitter_username: barbellstrengthindia
+github_username:  barbellstrengthindia
+facebook_username:  barbellstrengthindia
+email_username: barbellstrengthindia@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
