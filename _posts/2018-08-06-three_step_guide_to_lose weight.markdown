@@ -2,7 +2,7 @@
 layout:     post
 title:      "A 3-step guide to lose weight"
 subtitle:   "because its not that tough as others have told"
-date:       2017-11-25 16:00:00
+date:       2018-08-06 11:00:00
 author:     "Amritpal Singh Randhawa"
 header-img: "img/post-bg-01.jpg"
 ---
