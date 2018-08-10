@@ -1,14 +1,14 @@
 # Site settings
-title: Barbell Strength India
+title: Barbell Strength
 header-img: img/home-bg.jpg
 email: barbellstrengthindia@gmail.com
-copyright_name: barbellstrengthindia
-description: "This is Barbell Strength India official website."
+copyright_name: barbellstrength
+description: "This is Barbell Strength official website."
 baseurl: ""
 url: "http://barbellstrength.in/"
-twitter_username: barbellstrengthindia
-github_username:  barbellstrengthindia
-facebook_username:  barbellstrengthindia
+twitter_username: barbellstrength
+github_username:  barbellstrength
+facebook_username:  barbellstrength
 email_username: barbellstrengthindia@gmail.com
 
 # Google Analytics
