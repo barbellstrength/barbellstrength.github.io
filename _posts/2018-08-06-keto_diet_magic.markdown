@@ -29,8 +29,8 @@ header-img: "img/post-bg-02.jpg"
 <p>PS: I use <a href="https://play.google.com/store/apps/details?id=com.myfitnesspal.android&hl=en_SGss">myfitnesspal</a> app to track calories with myself and my clients.</p><br>
 
 <address>By: <br>
-Amritpal Singh Randhawa</br>
-Specialist in Fitness Nutrition from ISSA</br>
+Amritpal Singh Randhawa<br>
+Specialist in Fitness Nutrition from ISSA<br>
 </address>
 
 
