@@ -28,7 +28,7 @@ header-img: "img/post-bg-04.jpg"
 
 <p>If this client tries to lose all of his 20kgs in one go, he is going to be very disappointed because he just made an already hard task a whole lot harder. Below are the different options which can be applied in above situation:</p>
 
-<ol type="i">
+<ol type="1">
   <li>12 week cut followed by 8 weeks of diet break. Then repeat. One cycle will take 20 weeks.</li>
   <li>Lose 5 kg, and then maintain this new body weight for 4-8 weeks, repeat.</li>
   <li>If someone finds dieting very hard, they can choose to cut for 3 weeks and then take a 1 week diet break. Then repeat.</li>
